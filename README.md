@@ -6,7 +6,7 @@ All around the world, both governments and independent institutions crucially re
 
 Following these guidelines, in this project we use data visualization to investigate the job outcome and gender disparity among new graduates from US colleges. Along our analysis we will touch on many important topics, both social and economic.   
 
-## Notebook Description
+## Notebooks Description
 
 1. **visualizing_earnings.ipynb**: we study the distribution of the median salary earned by students who graduated from US colleges between 2010 and 2012 across 173 different majors; to get a more compact picture, we group these majors into 16 categories and determine if the categories which give access to the best paying jobs are also the most popular ones (i.e., the ones with more graduates). We then focus on the gender breakdown of each major and check if this feature has an influence on the median salary (spoiler alert: it does 😔). Finally, we analyze the unemployment rate among new graduates.
 2. **visualizing_gender_gap.ipynb**: we use a dataset which contains the percentage of female bachelor's graduates at US institutions among 17 different majors and across the academic years 1970-71 to 2011-12. In the end, we obtain a picture (contained in the `gender_gap.png` file) which shows how this percentage has evolved over the given period of time and across all given majors.
